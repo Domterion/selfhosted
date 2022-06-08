@@ -23,4 +23,6 @@ Followed the Wiki [here](https://github.com/dani-garcia/vaultwarden/wiki/Buildin
 8. Uncompresss it with `tar -xvzf whatever.tar.gz`
 9. You can now run the `vaultwarden` binary and access the web vault at http://localhost:8000 
 
+... from here you'll want to configure your reverse proxy to point to your new vaultwarden instance. Make sure you have SSL certificates setup. Refer to the Vaultwarden Wiki for any questions. It's well written and descriptive.
+
 ## Notes

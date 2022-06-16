@@ -26,3 +26,9 @@ I use [Proxmox VE](https://proxmox.com/en/proxmox-ve) as a hypervisor
 - Grafana
 - NGiNX
 - Code Server
+
+## Extra
+
+These are extra notes that may become useful at some point
+
+[Disks](./Disks.md)
